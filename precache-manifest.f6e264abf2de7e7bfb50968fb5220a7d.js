@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f73bd4485f2478be0fa98276b6e97b79",
+    "revision": "66b3e570dbe0f707261861c1adc097f8",
     "url": "/vaccine-slots/index.html"
   },
   {
-    "revision": "c1a1896568c2fa24fdd4",
-    "url": "/vaccine-slots/static/css/2.ecc8991b.chunk.css"
+    "revision": "058af87f117b70a9df0d",
+    "url": "/vaccine-slots/static/css/2.8e6d4d67.chunk.css"
   },
   {
-    "revision": "b74113f4876764b713d2",
-    "url": "/vaccine-slots/static/css/main.fcda973f.chunk.css"
+    "revision": "e80cf30bac20e3b3975e",
+    "url": "/vaccine-slots/static/css/main.f4ae6476.chunk.css"
   },
   {
-    "revision": "c1a1896568c2fa24fdd4",
-    "url": "/vaccine-slots/static/js/2.03067bf8.chunk.js"
+    "revision": "058af87f117b70a9df0d",
+    "url": "/vaccine-slots/static/js/2.db3b796c.chunk.js"
   },
   {
-    "revision": "b74113f4876764b713d2",
-    "url": "/vaccine-slots/static/js/main.24ea86c8.chunk.js"
+    "revision": "b4e592f317c5ea9a6cec",
+    "url": "/vaccine-slots/static/js/3.1025939e.chunk.js"
   },
   {
-    "revision": "ee9412fa3e0ee61919f3",
-    "url": "/vaccine-slots/static/js/runtime~main.02cf3ee5.js"
+    "revision": "e80cf30bac20e3b3975e",
+    "url": "/vaccine-slots/static/js/main.49c2957f.chunk.js"
+  },
+  {
+    "revision": "d0de23529a7d0b23c799",
+    "url": "/vaccine-slots/static/js/runtime~main.cf114d4d.js"
+  },
+  {
+    "revision": "0bd3827ce211051e300b1d97bfae08fb",
+    "url": "/vaccine-slots/static/media/alert.0bd3827c.mp3"
   },
   {
     "revision": "099a9556e1a63ece24f8a99859c94c7d",
