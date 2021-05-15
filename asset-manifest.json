@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vaccine-slots/static/css/main.4f252dad.chunk.css",
-    "main.js": "/vaccine-slots/static/js/main.98c4af1c.chunk.js",
-    "main.js.map": "/vaccine-slots/static/js/main.98c4af1c.chunk.js.map",
+    "main.js": "/vaccine-slots/static/js/main.b81c269d.chunk.js",
+    "main.js.map": "/vaccine-slots/static/js/main.b81c269d.chunk.js.map",
     "runtime~main.js": "/vaccine-slots/static/js/runtime~main.758c3449.js",
     "runtime~main.js.map": "/vaccine-slots/static/js/runtime~main.758c3449.js.map",
     "static/css/2.8e6d4d67.chunk.css": "/vaccine-slots/static/css/2.8e6d4d67.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.c63c29c0.chunk.js": "/vaccine-slots/static/js/3.c63c29c0.chunk.js",
     "static/js/3.c63c29c0.chunk.js.map": "/vaccine-slots/static/js/3.c63c29c0.chunk.js.map",
     "index.html": "/vaccine-slots/index.html",
-    "precache-manifest.152b1268144f2625c385144c3c92e397.js": "/vaccine-slots/precache-manifest.152b1268144f2625c385144c3c92e397.js",
+    "precache-manifest.27c1391790af955e25195c0c10d959b8.js": "/vaccine-slots/precache-manifest.27c1391790af955e25195c0c10d959b8.js",
     "service-worker.js": "/vaccine-slots/service-worker.js",
     "static/css/2.8e6d4d67.chunk.css.map": "/vaccine-slots/static/css/2.8e6d4d67.chunk.css.map",
     "static/css/main.4f252dad.chunk.css.map": "/vaccine-slots/static/css/main.4f252dad.chunk.css.map",
