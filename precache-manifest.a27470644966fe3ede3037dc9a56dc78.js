@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43c6ebe6858624dcebc80bdc8cc1c85d",
+    "revision": "6cc1d0c214c57e0e5251a38cdd8818ec",
     "url": "/vaccine-slots/index.html"
   },
   {
-    "revision": "cb0d92b4f3d5fdad9371",
+    "revision": "b416029eed85e99a8118",
     "url": "/vaccine-slots/static/css/2.8e6d4d67.chunk.css"
   },
   {
-    "revision": "5779f3a747b1bea5abe2",
-    "url": "/vaccine-slots/static/css/main.ebec9c58.chunk.css"
+    "revision": "d441e0722ceae83eeedc",
+    "url": "/vaccine-slots/static/css/main.7bef7e20.chunk.css"
   },
   {
-    "revision": "cb0d92b4f3d5fdad9371",
-    "url": "/vaccine-slots/static/js/2.cc3eca33.chunk.js"
+    "revision": "b416029eed85e99a8118",
+    "url": "/vaccine-slots/static/js/2.47407cd8.chunk.js"
   },
   {
-    "revision": "a18e5cb477b5c2408d4d",
-    "url": "/vaccine-slots/static/js/3.4b0297b3.chunk.js"
+    "revision": "0e96a1d1ef5ca0c26200",
+    "url": "/vaccine-slots/static/js/3.c63c29c0.chunk.js"
   },
   {
-    "revision": "5779f3a747b1bea5abe2",
-    "url": "/vaccine-slots/static/js/main.0d1f701d.chunk.js"
+    "revision": "d441e0722ceae83eeedc",
+    "url": "/vaccine-slots/static/js/main.66e80793.chunk.js"
   },
   {
-    "revision": "110701154cb3e2a88ce6",
-    "url": "/vaccine-slots/static/js/runtime~main.4f59ef21.js"
+    "revision": "7e41573badb9f2fd168f",
+    "url": "/vaccine-slots/static/js/runtime~main.758c3449.js"
   },
   {
     "revision": "0bd3827ce211051e300b1d97bfae08fb",
