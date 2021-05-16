@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bd35e08ef1456fc4b0351178dd6083e",
+    "revision": "d90c057982f7734e99367fe983d5b054",
     "url": "/vaccine-slots/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vaccine-slots/static/css/2.8e6d4d67.chunk.css"
   },
   {
-    "revision": "715dba1db02707a49389",
+    "revision": "e97c3ba1b2a5af336b76",
     "url": "/vaccine-slots/static/css/main.4f252dad.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vaccine-slots/static/js/3.c63c29c0.chunk.js"
   },
   {
-    "revision": "715dba1db02707a49389",
-    "url": "/vaccine-slots/static/js/main.b81c269d.chunk.js"
+    "revision": "e97c3ba1b2a5af336b76",
+    "url": "/vaccine-slots/static/js/main.ae314821.chunk.js"
   },
   {
     "revision": "7e41573badb9f2fd168f",
